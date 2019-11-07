@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Sudoku
+
+  Created by Mac on 19/12/2018.
+  Copyright © 2018 Mac. All rights reserved.
+*/
+"Primary" = "Utama";
+"Advanced" = "Mahir";
+"Difficult" = "Sulit";
+"Expert" = "Pakar";
+"Crazy" = "Gila";
+"Setting" = "Pengaturan";
+"Live Wallpaper" = "Wallpaper Hidup";
+"Scene Wallpaper" = "Wallpaper Pemandangan";
+"Retro" = "Retro";
+"Snow" = "Salju";
+"Sound Setting" = "Pengaturan Suara";
+"Background Music" = "Musik Latar";
+"Select Level" = "Pilih Level";
+"Level" = "Level";
+"Next" = "Berikutnya";
+"Previous" = "Sebelumnya";
+"Total Time" = "Total Waktu";
+"About Us" = "Tentang Kami";
+"Terms Of Service" = "Layanan";
+"Privacy Policy" = "Rahasia Pribadi";

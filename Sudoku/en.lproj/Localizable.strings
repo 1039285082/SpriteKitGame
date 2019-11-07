@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Sudoku
+
+  Created by Mac on 19/12/2018.
+  Copyright © 2018 Mac. All rights reserved.
+*/
+
+"Primary" = "Primary";
+"Advanced" = "Advanced";
+"Difficult" = "Difficult";
+"Expert" = "Expert";
+"Crazy" = "Crazy";
+"Setting" = "Setting";
+"Live Wallpaper" = "Live Wallpaper";
+"Scene Wallpaper" = "Scene Wallpaper";
+"Retro" = "Retro";
+"Snow" = "Snow";
+"Sound Setting" = "Sound Setting";
+"Background Music" = "Background Music";
+"Select Level" = "Select Level";
+"Level" = "Level";
+"Next" = "Next";
+"Previous" = "Previous";
+"Total Time" = "Total Time";
+"About Us" = "About Us";
+"Terms Of Service" = "Terms Of Service";
+"Privacy Policy" = "Privacy Policy";
